@@ -1,0 +1,1 @@
+// Improved checkout UI placeholder
